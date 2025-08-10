@@ -1,0 +1,2 @@
+# guideline
+Lyrails Community Guideline
