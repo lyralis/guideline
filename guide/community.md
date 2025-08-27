@@ -6,8 +6,8 @@
 
 - 基本的に招待，申請制で運用します．参加希望者はコミュニティメンバーからの招待(紹介)，または Discord クライアント内からの参加申請が必要です．
   - 詳しい情報は [参加方法](./join.md) を参照してください．
-- コミュニティでの活動を健全に行うために [行動規範](https://github.com/lyralis/code-of-conduct/blob/main/CODE_OF_CONDUCT.md), 運用方針を全体公開します．
-  - オーナー，モデレーター含めコミュニティメンバーは [行動規範](https://github.com/lyralis/code-of-conduct/blob/main/CODE_OF_CONDUCT.md) を遵守する必要があります．
+- コミュニティでの活動を健全に行うために [行動規範](https://github.com/lyralis/guideline?tab=coc-ov-file#readme), 運用方針を全体公開します．
+  - オーナー，モデレーター含めコミュニティメンバーは [行動規範](https://github.com/lyralis/guideline?tab=coc-ov-file#readme) を遵守する必要があります．
 - 運用方針は随時見直しを行い，必要に応じて改訂します．
 
 ### 権限
