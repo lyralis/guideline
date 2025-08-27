@@ -3,7 +3,7 @@ Lyrails Community Guideline
 
 ----
 
-## ルール
+## 運用方針
 
 - 基本的に招待，申請制で運用する
     - Discord のアクセス設定を [参加申請](https://support.discord.com/hc/ja/articles/29729107418519-%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%E7%94%B3%E8%AB%8B#h_01JK8ZT53MQA698MX4Z2H1X56X) 状態にする．
